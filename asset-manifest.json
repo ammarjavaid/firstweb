@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firstweb/static/css/main.05c20d48.css",
+    "main.js": "/firstweb/static/js/main.07ac4df7.js",
+    "static/media/5.jpg": "/firstweb/static/media/5.07302a5454deb3da4bc5.jpg",
+    "static/media/3.jpg": "/firstweb/static/media/3.5c7f7fc59153b3a6ad98.jpg",
+    "static/media/4.jpg": "/firstweb/static/media/4.edffe4ae730bb435e57e.jpg",
+    "static/media/2.jpg": "/firstweb/static/media/2.da109b6528a79fbfac18.jpg",
+    "static/media/6.jpg": "/firstweb/static/media/6.7182cf971542356da9c9.jpg",
+    "static/media/1.jpg": "/firstweb/static/media/1.64df6f405733aee1fe05.jpg",
+    "static/media/office2.png": "/firstweb/static/media/office2.6744c9585df3b5f9b440.png",
+    "static/media/office.png": "/firstweb/static/media/office.2b91d0388575b26d58fa.png",
+    "static/media/logo.png": "/firstweb/static/media/logo.415f2eb1f54dccef88a1.png",
+    "index.html": "/firstweb/index.html",
+    "main.05c20d48.css.map": "/firstweb/static/css/main.05c20d48.css.map",
+    "main.07ac4df7.js.map": "/firstweb/static/js/main.07ac4df7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05c20d48.css",
+    "static/js/main.07ac4df7.js"
+  ]
+}
